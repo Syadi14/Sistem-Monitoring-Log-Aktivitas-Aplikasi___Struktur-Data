@@ -1,0 +1,16 @@
+{
+  "name": "Log Monitoring System - C++",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1-ubuntu-22.04",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-extension-pack"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+      }
+    }
+  },
+  "postCreateCommand": "sudo apt-get update && sudo apt-get install -y make g++ && echo 'Environment ready. Run: make && ./bin/logmon'"
+}
