@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2880a4be-be8f-45a7-91ef-72aa992638cb" />Cara Menjalankan
+>Cara Menjalankan
 
 # 1. Terminal Lokal (Windows — WSL / Linux / macOS)
 
