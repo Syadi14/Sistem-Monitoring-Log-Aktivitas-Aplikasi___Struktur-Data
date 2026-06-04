@@ -1,0 +1,16 @@
+variable,description,type
+farm_id,Kode unik lahan/petani,ID
+region,Wilayah/agroekosistem lahan,Categorical
+season,Musim tanam,Categorical
+irrigation,Jenis sistem irigasi,Categorical
+soil_quality,Kualitas tanah secara kategorikal,Categorical
+rice_variety,Varietas padi yang digunakan,Categorical
+rainfall_mm,Curah hujan rata-rata selama periode tanam (mm),Numerical
+temperature_c,Suhu rata-rata selama periode tanam (derajat Celsius),Numerical
+humidity_pct,Kelembaban rata-rata (%),Numerical
+fertilizer_kg_ha,Jumlah pupuk yang digunakan per hektar (kg/ha),Numerical
+pesticide_l_ha,Jumlah pestisida yang digunakan per hektar (liter/ha),Numerical
+land_area_ha,Luas lahan dalam hektar,Numerical
+planting_density,Kerapatan tanam,Numerical
+yield_ton_ha,Hasil panen padi dalam ton per hektar,Target numerical
+risk_category,Kategori risiko produktivitas berdasarkan yield_ton_ha,Target categorical

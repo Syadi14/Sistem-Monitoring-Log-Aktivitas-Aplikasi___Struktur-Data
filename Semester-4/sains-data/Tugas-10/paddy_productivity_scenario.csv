@@ -1,0 +1,361 @@
+farm_id,region,season,irrigation,soil_quality,rice_variety,rainfall_mm,temperature_c,humidity_pct,fertilizer_kg_ha,pesticide_l_ha,land_area_ha,planting_density,yield_ton_ha,risk_category
+FARM_225,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas C,123.65,26.24,61.71,90.91,0.85,1.77,24.7,7.52,Risiko Rendah
+FARM_043,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas B,179.52,27.05,80.64,61.03,2.61,1.72,26.28,7.67,Risiko Rendah
+FARM_286,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas A,118.41,25.24,68.18,,2.54,0.88,26.21,5.83,Risiko Rendah
+FARM_303,Dataran Menengah,Musim Kemarau,Tadah Hujan,Tinggi,Varietas B,193.1,25.04,56.9,108.04,2.43,2.08,26.65,7.07,Risiko Rendah
+FARM_057,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas B,314.36,26.12,83.94,107.33,1.71,1.08,16.56,6.03,Risiko Rendah
+FARM_273,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas B,193.83,25.95,83.35,148.52,3.84,3.52,22.07,8.94,Risiko Rendah
+FARM_016,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas C,368.09,23.86,85.39,103.44,0.2,0.63,22.06,0.91,Risiko Tinggi
+FARM_058,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas B,208.95,27.82,72.62,108.19,0.97,1.65,24.18,7.13,Risiko Rendah
+FARM_249,Tadah Hujan,Musim Hujan,Semi Teknis,Sedang,Varietas B,210.44,27.55,78.04,104.12,1.75,1.17,27.39,7.44,Risiko Rendah
+FARM_125,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas C,58.8,25.67,77.13,103.12,2.24,1.27,17.95,6.08,Risiko Rendah
+FARM_083,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas A,247.54,27.51,80.55,120.44,2.78,0.91,23.69,8.38,Risiko Rendah
+FARM_355,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas A,220.93,26.79,79.29,113.95,2.03,2.65,28.23,6.99,Risiko Rendah
+FARM_211,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas A,210.33,25.38,79.42,117.61,3.47,1.1,24.13,8.15,Risiko Rendah
+FARM_340,Dataran Rendah,Musim Hujan,Semi Teknis,Tinggi,Varietas C,243.36,28.12,90.59,109.56,2.98,0.95,20.78,8.55,Risiko Rendah
+FARM_120,Dataran Menengah,Musim Hujan,Semi Teknis,Rendah,Varietas C,168.48,24.49,89.59,56.64,1.5,1.02,21.61,5.42,Risiko Sedang
+FARM_127,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas B,153.54,26.04,80.71,124.23,3.14,0.54,27.89,8.77,Risiko Rendah
+FARM_204,Tadah Hujan,Musim Hujan,Tadah Hujan,Rendah,Varietas B,237.52,28.21,84.99,122.39,2.76,1.09,25.23,6.95,Risiko Rendah
+FARM_301,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas C,213.06,30.14,80.15,130.49,1.18,0.71,18.67,6.34,Risiko Rendah
+FARM_140,Tadah Hujan,Musim Kemarau,Teknis,Sedang,Varietas B,103.09,25.14,64.7,110.08,3.14,0.89,19.78,6.81,Risiko Rendah
+FARM_357,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,151.34,28.93,63.58,156.86,1.77,0.94,20.26,8.61,Risiko Rendah
+FARM_141,Tadah Hujan,Musim Kemarau,Tadah Hujan,Tinggi,Varietas A,51.42,32.03,69.67,133.72,2.31,1.13,24.51,1.2,Risiko Tinggi
+FARM_223,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas C,202.61,26.66,86.12,110.65,1.42,1.12,20.89,7.45,Risiko Rendah
+FARM_325,Tadah Hujan,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,125.11,30.1,69.33,138.96,3.72,1.03,25.14,7.07,Risiko Rendah
+FARM_034,Tadah Hujan,Musim Kemarau,Teknis,Sedang,Varietas A,162.18,29.49,76.55,111.73,1.44,1.23,25.58,8.35,Risiko Rendah
+FARM_298,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas A,174.05,25.12,85.33,94.48,4.02,2.25,29.07,7.15,Risiko Rendah
+FARM_221,Dekat Sungai,Musim Hujan,Teknis,Rendah,Varietas B,279.65,27.69,83.68,80.23,0.5,1.61,32.17,4.93,Risiko Sedang
+FARM_148,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas A,118.98,26.33,75.88,117.57,0.95,0.94,18.77,7.75,Risiko Rendah
+FARM_326,Dekat Sungai,Musim Kemarau,Semi Teknis,Sedang,Varietas A,142.15,28.13,83.36,161.19,2.33,1.31,20.62,8.79,Risiko Rendah
+FARM_026,Dekat Sungai,Musim Kemarau,Tadah Hujan,Rendah,Varietas A,,32.85,68.51,124.79,1.83,4.0,20.61,3.61,Risiko Tinggi
+FARM_074,Tadah Hujan,Musim Hujan,Semi Teknis,Sedang,Varietas A,156.6,27.76,78.97,99.65,3.15,0.87,17.72,6.86,Risiko Rendah
+FARM_268,Dekat Sungai,Musim Kemarau,Semi Teknis,Sedang,Varietas A,107.3,28.96,79.8,135.01,2.55,0.38,20.4,8.55,Risiko Rendah
+FARM_010,Dekat Sungai,Musim Hujan,Teknis,Rendah,Varietas B,283.53,25.63,91.73,93.44,1.63,1.4,22.81,5.33,Risiko Sedang
+FARM_348,Dataran Rendah,Musim Kemarau,Teknis,Tinggi,Varietas B,155.4,,77.39,111.1,1.39,0.46,23.14,8.49,Risiko Rendah
+FARM_149,Dataran Rendah,Musim Kemarau,Tadah Hujan,Tinggi,Varietas A,164.17,27.39,61.66,122.06,3.4,0.67,17.61,7.6,Risiko Rendah
+FARM_114,Tadah Hujan,Musim Kemarau,Teknis,Sedang,Varietas C,104.71,27.39,66.43,118.96,2.68,0.59,23.47,7.36,Risiko Rendah
+FARM_040,Dataran Menengah,Musim Kemarau,Tadah Hujan,Rendah,Varietas A,178.14,26.51,64.8,128.5,1.03,0.98,28.39,6.19,Risiko Rendah
+FARM_023,Dataran Rendah,Musim Kemarau,Semi Teknis,Tinggi,Varietas A,88.94,29.73,64.94,123.43,2.45,1.81,22.63,7.51,Risiko Rendah
+FARM_352,Tadah Hujan,Musim Kemarau,Teknis,Sedang,Varietas B,97.96,24.2,71.91,117.04,1.46,1.08,26.63,6.68,Risiko Rendah
+FARM_095,Dekat Sungai,Musim Hujan,Tadah Hujan,Sedang,Varietas A,281.37,23.75,84.82,127.83,0.58,1.13,24.84,4.92,Risiko Sedang
+FARM_091,Dataran Rendah,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,148.0,26.71,56.69,90.17,3.2,2.02,32.78,5.95,Risiko Rendah
+FARM_181,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,126.91,27.96,63.68,108.38,1.41,2.62,26.01,8.03,Risiko Rendah
+FARM_031,Dekat Sungai,Musim Kemarau,Teknis,Tinggi,Varietas B,136.54,26.56,80.91,91.67,2.33,1.33,21.14,7.83,Risiko Rendah
+FARM_306,Tadah Hujan,Musim Hujan,Semi Teknis,Sedang,Varietas B,207.1,25.89,76.63,59.92,2.31,0.6,27.37,5.76,Risiko Sedang
+FARM_109,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas A,137.87,27.26,83.6,101.01,2.82,2.22,25.97,7.92,Risiko Rendah
+FARM_158,Dekat Sungai,Musim Kemarau,Semi Teknis,Sedang,Varietas A,170.98,29.37,79.7,139.53,1.23,0.67,22.36,8.32,Risiko Rendah
+FARM_233,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas C,161.82,25.13,86.0,101.81,2.3,0.72,26.34,7.88,Risiko Rendah
+FARM_056,Tadah Hujan,Musim Hujan,Teknis,Rendah,Varietas B,162.52,25.07,79.1,158.76,4.03,1.03,27.19,8.56,Risiko Rendah
+FARM_006,Dataran Rendah,Musim Hujan,Tadah Hujan,Sedang,Varietas A,228.14,28.79,83.61,81.31,2.12,0.89,22.93,6.42,Risiko Rendah
+FARM_046,Dekat Sungai,Musim Kemarau,Semi Teknis,Sedang,Varietas A,166.48,28.02,78.19,113.63,1.32,1.43,20.06,7.18,Risiko Rendah
+FARM_343,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas B,282.48,26.54,82.87,161.35,3.31,0.66,19.22,6.48,Risiko Rendah
+FARM_287,Dataran Menengah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,119.52,27.18,63.17,100.18,2.53,1.37,26.72,6.58,Risiko Rendah
+FARM_238,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas A,248.01,27.48,90.41,,0.85,1.95,27.36,7.13,Risiko Rendah
+FARM_210,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas B,103.35,24.36,91.2,111.56,1.97,4.0,21.9,6.16,Risiko Rendah
+FARM_079,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas A,129.92,28.06,66.19,100.63,3.63,1.07,19.28,7.7,Risiko Rendah
+FARM_334,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas C,239.32,24.99,78.77,82.47,2.13,0.61,25.58,4.42,Risiko Sedang
+FARM_284,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas A,191.68,29.49,92.32,123.89,1.71,1.18,18.57,7.54,Risiko Rendah
+FARM_004,Dataran Menengah,Musim Hujan,Semi Teknis,Tinggi,Varietas A,211.2,26.36,89.97,139.49,2.88,1.04,24.05,8.8,Risiko Rendah
+FARM_117,Tadah Hujan,Musim Hujan,Tadah Hujan,Tinggi,Varietas B,172.62,24.78,84.17,121.03,3.05,1.45,19.68,7.71,Risiko Rendah
+FARM_077,Dekat Sungai,Musim Hujan,Tadah Hujan,Rendah,Varietas B,264.8,25.14,83.5,121.18,3.42,0.51,26.02,5.07,Risiko Sedang
+FARM_285,Dataran Menengah,Musim Hujan,Tadah Hujan,Sedang,Varietas B,182.83,26.4,78.7,105.68,2.14,0.83,24.89,6.97,Risiko Rendah
+FARM_064,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas A,251.66,24.85,76.92,,2.35,1.42,14.43,6.83,Risiko Rendah
+FARM_047,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas A,139.06,27.69,78.83,75.65,1.94,0.51,20.12,5.39,Risiko Sedang
+FARM_212,Dekat Sungai,Musim Kemarau,Tadah Hujan,Rendah,Varietas A,152.69,26.18,84.85,83.35,2.74,1.79,21.31,6.41,Risiko Rendah
+FARM_078,Dataran Rendah,Musim Kemarau,Semi Teknis,Tinggi,Varietas C,161.57,28.84,64.75,149.1,2.79,0.63,17.75,8.72,Risiko Rendah
+FARM_073,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas C,98.73,28.46,77.08,99.9,2.56,0.77,24.03,6.46,Risiko Rendah
+FARM_085,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas B,158.75,24.81,67.16,128.55,2.81,0.64,27.57,7.23,Risiko Rendah
+FARM_359,Tadah Hujan,Musim Hujan,Teknis,Rendah,Varietas A,,25.38,80.76,127.4,3.75,1.25,20.35,7.41,Risiko Rendah
+FARM_200,Dekat Sungai,Musim Kemarau,Teknis,Sedang,Varietas C,186.32,27.09,57.51,150.38,1.11,2.4,24.91,9.5,Risiko Rendah
+FARM_335,Dataran Rendah,Musim Hujan,Tadah Hujan,Sedang,Varietas B,117.06,24.15,84.1,107.07,2.14,1.85,20.17,6.74,Risiko Rendah
+FARM_094,Dataran Menengah,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,137.54,27.65,69.33,97.16,1.87,2.41,28.3,6.45,Risiko Rendah
+FARM_199,Tadah Hujan,Musim Kemarau,Tadah Hujan,Rendah,Varietas C,99.1,28.91,69.21,117.96,1.13,0.65,26.86,5.73,Risiko Sedang
+FARM_198,Tadah Hujan,Musim Hujan,Tadah Hujan,Tinggi,Varietas A,292.17,24.3,74.57,140.52,3.32,2.0,25.62,6.99,Risiko Rendah
+FARM_290,Dataran Menengah,Musim Hujan,Semi Teknis,Rendah,Varietas B,278.25,23.84,80.01,164.14,2.4,1.13,20.49,6.12,Risiko Rendah
+FARM_337,Tadah Hujan,Musim Hujan,Tadah Hujan,Rendah,Varietas B,192.41,27.6,80.02,81.13,1.35,0.7,22.17,5.69,Risiko Sedang
+FARM_232,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas C,121.2,25.79,60.39,145.32,2.52,0.86,24.58,8.37,Risiko Rendah
+FARM_076,Dekat Sungai,Musim Kemarau,Tadah Hujan,Tinggi,Varietas A,131.71,31.09,79.66,84.06,3.53,0.84,21.56,6.06,Risiko Rendah
+FARM_195,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas C,78.67,29.72,75.8,113.08,0.96,0.95,24.19,6.52,Risiko Rendah
+FARM_319,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas A,112.95,29.52,67.95,150.83,3.84,1.16,26.06,8.34,Risiko Rendah
+FARM_017,Dataran Rendah,Musim Kemarau,Teknis,Rendah,Varietas B,146.37,30.69,70.67,89.05,1.9,2.4,20.14,5.28,Risiko Sedang
+FARM_067,Dataran Rendah,Musim Hujan,Semi Teknis,Tinggi,Varietas B,302.67,27.18,81.52,82.3,3.22,1.59,28.71,3.46,Risiko Tinggi
+FARM_133,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas B,201.0,26.37,81.34,150.2,2.72,1.3,26.42,8.2,Risiko Rendah
+FARM_008,Tadah Hujan,Musim Kemarau,Tadah Hujan,Rendah,Varietas C,63.63,26.72,62.13,101.36,2.55,2.47,22.27,1.77,Risiko Tinggi
+FARM_193,Tadah Hujan,Musim Kemarau,Semi Teknis,Tinggi,Varietas B,94.15,28.18,50.06,122.56,2.87,2.45,21.76,7.46,Risiko Rendah
+FARM_153,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas A,139.45,28.16,68.63,142.59,1.97,2.13,22.14,7.52,Risiko Rendah
+FARM_324,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,126.91,31.39,70.18,95.21,3.56,1.03,19.22,5.16,Risiko Sedang
+FARM_315,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas C,165.73,28.3,83.27,136.27,1.2,1.48,29.14,8.0,Risiko Rendah
+FARM_174,Dataran Rendah,Musim Kemarau,Teknis,Rendah,Varietas A,120.01,27.94,67.93,148.77,1.25,2.6,26.73,7.7,Risiko Rendah
+FARM_159,Dataran Rendah,Musim Kemarau,Teknis,Tinggi,Varietas A,97.55,29.86,71.02,156.23,1.34,1.01,28.02,7.73,Risiko Rendah
+FARM_110,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,64.66,27.68,74.27,100.27,2.55,0.82,25.16,5.63,Risiko Sedang
+FARM_296,Dataran Menengah,Musim Hujan,Tadah Hujan,Tinggi,Varietas C,245.21,26.92,80.12,120.67,2.62,1.05,28.6,8.07,Risiko Rendah
+FARM_061,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas B,160.2,25.31,68.79,160.53,0.69,1.99,22.07,9.47,Risiko Rendah
+FARM_115,Dekat Sungai,Musim Hujan,Semi Teknis,,Varietas A,263.52,28.62,79.5,55.34,2.44,1.29,21.91,1.79,Risiko Tinggi
+FARM_259,Dataran Menengah,Musim Kemarau,Semi Teknis,Rendah,Varietas C,107.41,26.73,58.72,127.51,1.09,1.43,26.44,7.17,Risiko Rendah
+FARM_111,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas C,233.07,27.85,91.67,153.87,1.61,1.29,16.02,7.39,Risiko Rendah
+FARM_219,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas A,218.84,27.62,80.82,117.17,2.07,0.9,26.58,8.69,Risiko Rendah
+FARM_230,Dekat Sungai,Musim Hujan,Semi Teknis,Tinggi,Varietas C,166.86,28.29,90.72,128.61,1.78,0.64,21.25,8.77,Risiko Rendah
+FARM_018,Dataran Menengah,Musim Hujan,Tadah Hujan,Rendah,Varietas B,262.02,23.36,81.17,114.12,1.37,0.45,23.3,5.19,Risiko Sedang
+FARM_146,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas A,230.39,25.91,83.85,109.55,0.48,0.91,20.1,6.92,Risiko Rendah
+FARM_025,Dataran Menengah,Musim Kemarau,Teknis,Tinggi,Varietas C,152.64,23.54,58.07,190.4,2.56,1.09,21.96,9.5,Risiko Rendah
+FARM_102,Dekat Sungai,Musim Kemarau,Teknis,,Varietas A,122.45,27.32,68.83,123.18,2.35,1.59,23.63,8.14,Risiko Rendah
+FARM_317,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas C,214.85,22.44,78.37,126.75,1.75,1.96,26.18,7.29,Risiko Rendah
+FARM_186,Dekat Sungai,Musim Hujan,Tadah Hujan,Rendah,Varietas B,248.86,27.43,89.88,100.19,0.96,2.07,31.79,5.29,Risiko Sedang
+FARM_209,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas B,107.49,30.83,66.74,88.12,3.5,2.93,32.39,2.79,Risiko Tinggi
+FARM_138,Dekat Sungai,Musim Hujan,Semi Teknis,Sedang,Varietas B,252.97,29.85,97.4,134.19,1.47,0.97,28.83,7.19,Risiko Rendah
+FARM_156,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas B,203.63,27.92,88.74,90.1,3.22,1.06,25.98,7.86,Risiko Rendah
+FARM_226,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas C,214.6,26.31,87.53,103.42,0.76,1.05,21.33,8.5,Risiko Rendah
+FARM_356,Dekat Sungai,Musim Kemarau,Semi Teknis,Rendah,Varietas A,113.5,29.56,62.48,66.53,2.6,1.58,21.64,4.48,Risiko Sedang
+FARM_255,Dataran Rendah,Musim Kemarau,Teknis,Tinggi,Varietas A,83.97,25.91,58.53,96.57,1.56,0.41,23.76,6.73,Risiko Rendah
+FARM_176,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,72.89,27.69,62.27,128.07,3.87,0.81,27.02,7.62,Risiko Rendah
+FARM_266,Dekat Sungai,Musim Hujan,Semi Teknis,Sedang,Varietas A,214.66,28.51,97.7,98.58,2.36,2.36,29.02,6.33,Risiko Rendah
+FARM_168,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas C,58.93,29.2,83.1,124.07,3.08,0.74,20.95,5.71,Risiko Sedang
+FARM_194,Dekat Sungai,Musim Kemarau,Semi Teknis,Rendah,Varietas B,162.64,28.05,72.96,61.46,2.93,3.12,15.86,2.16,Risiko Tinggi
+FARM_020,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas B,246.71,27.17,74.82,131.05,1.21,0.56,23.96,8.28,Risiko Rendah
+FARM_282,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas A,149.04,27.58,83.82,81.34,1.17,1.59,22.64,5.29,Risiko Sedang
+FARM_080,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas C,272.92,26.69,73.92,94.9,0.87,0.97,29.74,5.11,Risiko Sedang
+FARM_164,Dataran Menengah,Musim Kemarau,Teknis,Tinggi,Varietas A,63.74,25.52,62.66,142.9,2.47,1.45,23.92,7.66,Risiko Rendah
+FARM_019,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas A,90.23,29.14,63.94,91.24,0.89,4.0,25.97,6.16,Risiko Rendah
+FARM_302,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas B,135.15,26.85,58.36,121.55,1.17,0.63,17.79,7.73,Risiko Rendah
+FARM_105,Tadah Hujan,Musim Kemarau,Semi Teknis,Rendah,Varietas C,144.99,28.7,54.87,55.62,4.49,1.57,22.85,2.89,Risiko Tinggi
+FARM_279,Dekat Sungai,Musim Hujan,Tadah Hujan,Sedang,Varietas C,269.82,27.61,83.98,91.01,2.08,1.11,26.78,5.74,Risiko Sedang
+FARM_119,Tadah Hujan,Musim Kemarau,Semi Teknis,Sedang,Varietas C,36.05,28.66,64.16,210.0,2.32,2.73,23.59,6.09,Risiko Rendah
+FARM_032,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas B,122.34,26.32,81.5,140.63,2.12,1.03,22.33,6.79,Risiko Rendah
+FARM_037,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas C,58.1,28.25,70.26,106.01,2.82,2.15,14.29,4.01,Risiko Sedang
+FARM_154,Dataran Menengah,Musim Kemarau,Semi Teknis,Rendah,Varietas A,114.71,29.52,66.64,139.34,3.33,1.07,24.18,7.26,Risiko Rendah
+FARM_239,Dekat Sungai,Musim Hujan,Teknis,Rendah,Varietas A,154.26,25.0,92.81,144.07,1.38,0.62,18.57,7.54,Risiko Rendah
+FARM_313,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas A,221.51,25.81,89.42,119.02,1.87,0.94,25.55,7.08,Risiko Rendah
+FARM_336,Dataran Rendah,Musim Kemarau,Teknis,Tinggi,Varietas A,123.34,29.65,66.16,106.58,2.24,2.01,21.64,8.01,Risiko Rendah
+FARM_251,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas A,198.66,27.54,76.82,127.58,2.26,1.1,22.46,8.12,Risiko Rendah
+FARM_228,Dataran Menengah,Musim Hujan,Tadah Hujan,Tinggi,Varietas C,245.0,23.37,87.32,130.58,1.63,0.91,21.57,7.63,Risiko Rendah
+FARM_060,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas C,130.46,27.78,62.74,168.32,2.77,2.41,31.43,7.74,Risiko Rendah
+FARM_112,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,110.6,24.84,61.76,104.22,2.38,1.09,19.52,6.71,Risiko Rendah
+FARM_345,Dataran Menengah,Musim Hujan,Semi Teknis,Tinggi,Varietas B,252.49,24.8,73.6,97.86,0.2,1.17,18.59,6.2,Risiko Rendah
+FARM_007,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,137.77,30.32,71.77,85.82,1.72,2.32,16.65,6.7,Risiko Rendah
+FARM_262,Tadah Hujan,Musim Hujan,Tadah Hujan,Sedang,Varietas A,242.81,23.73,88.21,88.04,4.02,0.63,22.6,5.29,Risiko Sedang
+FARM_338,Dekat Sungai,Musim Kemarau,Semi Teknis,Rendah,Varietas A,152.12,25.89,76.51,125.89,1.63,0.66,27.43,7.59,Risiko Rendah
+FARM_011,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas B,211.32,27.24,91.64,78.71,1.63,1.03,23.01,8.07,Risiko Rendah
+FARM_166,Tadah Hujan,Musim Hujan,Teknis,,Varietas B,95.51,24.64,85.81,132.93,2.37,1.33,28.88,7.62,Risiko Rendah
+FARM_104,Dataran Menengah,Musim Kemarau,Teknis,Tinggi,Varietas A,68.99,26.18,65.84,52.33,2.21,2.15,27.99,5.35,Risiko Sedang
+FARM_082,Dekat Sungai,Musim Kemarau,Teknis,Rendah,Varietas C,146.36,29.33,76.67,148.03,1.61,1.92,29.81,7.86,Risiko Rendah
+FARM_178,Dataran Menengah,Musim Hujan,Tadah Hujan,Sedang,Varietas B,246.48,25.41,81.38,88.43,1.91,1.62,25.89,5.9,Risiko Rendah
+FARM_240,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas B,334.76,27.41,98.0,72.46,1.98,1.68,20.4,3.12,Risiko Tinggi
+FARM_183,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas B,162.91,27.4,82.0,84.02,4.06,1.02,22.73,7.43,Risiko Rendah
+FARM_184,Tadah Hujan,Musim Kemarau,Semi Teknis,Sedang,Varietas C,30.0,26.42,64.15,91.91,2.36,1.05,27.76,4.4,Risiko Sedang
+FARM_243,Tadah Hujan,Musim Hujan,Teknis,Tinggi,Varietas B,221.49,25.57,87.03,130.45,1.62,2.07,27.77,8.91,Risiko Rendah
+FARM_196,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas A,264.5,26.53,84.63,76.69,3.47,1.73,23.0,6.07,Risiko Rendah
+FARM_093,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas B,245.76,25.11,94.92,149.41,2.17,2.05,23.77,7.96,Risiko Rendah
+FARM_070,Tadah Hujan,Musim Hujan,Tadah Hujan,Tinggi,Varietas B,226.98,,83.17,98.51,1.58,0.52,31.48,6.86,Risiko Rendah
+FARM_241,Tadah Hujan,Musim Hujan,Teknis,Rendah,Varietas A,191.08,27.83,85.21,35.7,1.43,0.82,20.14,3.06,Risiko Tinggi
+FARM_097,Dataran Menengah,Musim Hujan,Semi Teknis,Tinggi,Varietas A,315.2,24.61,86.45,98.63,3.73,1.55,19.63,2.31,Risiko Tinggi
+FARM_144,Dataran Rendah,Musim Kemarau,Semi Teknis,Tinggi,Varietas B,,25.94,86.51,94.87,1.51,0.48,22.31,7.71,Risiko Rendah
+FARM_275,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas A,300.98,26.08,74.25,95.14,1.88,1.14,15.08,5.46,Risiko Sedang
+FARM_098,Dataran Menengah,Musim Hujan,Teknis,Rendah,Varietas B,211.47,28.47,76.94,114.13,1.18,1.05,24.94,7.34,Risiko Rendah
+FARM_197,Dekat Sungai,Musim Hujan,Teknis,Rendah,Varietas A,272.42,25.97,89.75,170.64,2.66,1.05,17.31,7.73,Risiko Rendah
+FARM_069,Dataran Rendah,Musim Hujan,Semi Teknis,Tinggi,Varietas B,290.31,27.37,97.54,84.28,1.66,1.29,26.08,6.92,Risiko Rendah
+FARM_024,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas B,,26.73,80.09,120.15,1.71,3.28,25.11,7.28,Risiko Rendah
+FARM_038,Dataran Rendah,Musim Hujan,Semi Teknis,Tinggi,Varietas B,199.37,27.27,72.43,166.31,1.4,1.42,14.45,8.17,Risiko Rendah
+FARM_145,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas C,128.88,30.35,71.27,135.86,2.22,1.51,18.54,7.03,Risiko Rendah
+FARM_123,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas B,211.25,26.89,83.73,123.05,3.35,1.34,25.46,6.67,Risiko Rendah
+FARM_068,Tadah Hujan,Musim Kemarau,Semi Teknis,Sedang,Varietas B,74.64,28.18,71.0,121.07,1.44,0.77,18.51,6.01,Risiko Rendah
+FARM_339,Dataran Menengah,Musim Hujan,Semi Teknis,Sedang,Varietas A,169.08,25.17,80.54,122.04,1.17,2.48,30.71,8.11,Risiko Rendah
+FARM_342,Dataran Menengah,Musim Hujan,Tadah Hujan,Sedang,Varietas C,285.0,26.96,94.07,144.36,3.12,0.65,15.32,6.56,Risiko Rendah
+FARM_288,Dataran Menengah,Musim Kemarau,Tadah Hujan,Tinggi,Varietas C,76.02,26.69,73.69,72.59,0.78,0.85,16.25,4.77,Risiko Sedang
+FARM_169,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas A,,25.76,83.26,82.86,3.05,2.15,28.15,7.12,Risiko Rendah
+FARM_126,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas A,156.14,25.24,75.89,99.04,1.48,1.29,28.64,7.3,Risiko Rendah
+FARM_147,Dekat Sungai,Musim Kemarau,Teknis,Sedang,Varietas B,141.46,29.56,70.35,113.2,2.9,0.54,26.81,7.36,Risiko Rendah
+FARM_297,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas A,254.06,29.58,90.59,160.69,2.12,1.5,25.19,8.13,Risiko Rendah
+FARM_087,Dekat Sungai,Musim Kemarau,Tadah Hujan,Tinggi,Varietas A,143.14,29.71,74.36,134.08,2.76,0.67,26.79,8.23,Risiko Rendah
+FARM_304,Dekat Sungai,Musim Hujan,Tadah Hujan,Sedang,Varietas A,240.34,27.3,80.8,148.61,2.32,1.25,28.75,7.56,Risiko Rendah
+FARM_177,Dekat Sungai,Musim Kemarau,Teknis,Rendah,Varietas C,172.41,28.83,73.56,157.59,1.39,1.18,24.8,8.74,Risiko Rendah
+FARM_305,Dekat Sungai,Musim Hujan,Tadah Hujan,Sedang,Varietas A,258.72,24.98,89.69,118.93,1.71,0.8,31.4,5.85,Risiko Rendah
+FARM_173,Dataran Menengah,Musim Kemarau,Tadah Hujan,Rendah,Varietas B,101.66,26.46,69.07,69.35,2.2,1.99,22.39,4.38,Risiko Sedang
+FARM_318,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas B,295.12,24.79,85.91,90.81,0.2,2.38,27.38,3.85,Risiko Sedang
+FARM_256,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas A,158.94,29.64,63.6,127.7,2.14,1.79,19.77,8.17,Risiko Rendah
+FARM_257,Tadah Hujan,Musim Hujan,Semi Teknis,Rendah,Varietas A,109.22,28.35,75.3,87.5,2.14,1.21,14.01,4.7,Risiko Sedang
+FARM_182,Dataran Rendah,Musim Kemarau,Teknis,Tinggi,Varietas A,141.55,28.26,76.43,146.8,3.1,0.91,15.75,8.68,Risiko Rendah
+FARM_254,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas A,232.89,,71.34,45.33,0.94,1.83,21.33,6.67,Risiko Rendah
+FARM_130,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas B,176.55,26.28,59.36,103.35,1.5,1.88,22.17,7.25,Risiko Rendah
+FARM_039,Dekat Sungai,Musim Kemarau,Tadah Hujan,Sedang,Varietas B,116.14,23.62,67.36,137.8,1.6,2.95,22.02,5.99,Risiko Rendah
+FARM_012,Tadah Hujan,Musim Hujan,Tadah Hujan,Sedang,Varietas B,247.59,28.26,85.98,102.23,2.11,0.35,27.95,6.32,Risiko Rendah
+FARM_235,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,136.17,28.07,73.48,152.12,1.24,0.3,27.28,7.9,Risiko Rendah
+FARM_341,Dataran Menengah,Musim Hujan,Tadah Hujan,Sedang,Varietas A,152.83,27.49,85.73,93.84,0.52,0.85,28.31,6.72,Risiko Rendah
+FARM_113,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas C,163.87,25.02,80.73,125.72,0.71,0.55,27.72,8.28,Risiko Rendah
+FARM_180,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas B,278.1,26.63,89.42,141.1,2.16,1.18,17.36,7.69,Risiko Rendah
+FARM_234,Dataran Menengah,Musim Hujan,Tadah Hujan,Tinggi,Varietas C,187.73,23.6,89.16,112.38,2.14,0.75,26.06,7.51,Risiko Rendah
+FARM_224,Dataran Menengah,Musim Hujan,Tadah Hujan,Sedang,Varietas B,,23.76,93.86,61.58,1.28,1.4,24.63,4.6,Risiko Sedang
+FARM_118,Dataran Rendah,Musim Kemarau,Teknis,Tinggi,Varietas A,118.84,28.28,66.54,129.23,2.49,0.91,15.91,7.63,Risiko Rendah
+FARM_333,Dataran Rendah,Musim Hujan,Tadah Hujan,Sedang,Varietas C,259.41,27.37,77.82,62.65,2.03,0.73,24.01,5.97,Risiko Rendah
+FARM_347,Dekat Sungai,Musim Hujan,Teknis,Rendah,Varietas B,227.88,28.72,79.65,104.98,2.15,0.63,25.65,6.47,Risiko Rendah
+FARM_272,Tadah Hujan,Musim Kemarau,Semi Teknis,Sedang,Varietas A,88.02,26.77,71.95,126.91,2.02,0.8,24.41,6.28,Risiko Rendah
+FARM_327,Dataran Menengah,Musim Kemarau,Teknis,Tinggi,Varietas B,81.86,25.97,62.51,144.98,3.02,1.34,26.21,8.12,Risiko Rendah
+FARM_165,Dataran Rendah,Musim Kemarau,Tadah Hujan,Tinggi,Varietas A,149.03,28.05,66.64,101.94,1.45,2.97,23.57,7.08,Risiko Rendah
+FARM_263,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas A,142.69,26.37,78.1,109.21,1.88,1.56,15.13,6.26,Risiko Rendah
+FARM_246,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas C,155.15,27.54,79.68,103.48,2.37,2.42,20.48,8.38,Risiko Rendah
+FARM_155,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas B,43.05,26.79,85.94,102.24,0.21,0.82,17.02,4.27,Risiko Sedang
+FARM_248,Tadah Hujan,Musim Hujan,Teknis,Tinggi,Varietas B,254.57,27.25,85.45,,3.08,1.35,23.5,6.72,Risiko Rendah
+FARM_003,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas B,306.79,24.37,80.81,128.42,1.99,1.7,24.34,6.21,Risiko Rendah
+FARM_116,Tadah Hujan,Musim Kemarau,Semi Teknis,Tinggi,Varietas A,128.23,30.12,69.63,136.51,2.71,2.28,18.57,7.82,Risiko Rendah
+FARM_267,Dekat Sungai,Musim Hujan,Semi Teknis,Sedang,Varietas B,296.93,27.73,76.87,121.28,2.12,2.88,27.78,6.22,Risiko Rendah
+FARM_203,Dataran Rendah,Musim Hujan,Tadah Hujan,Sedang,Varietas B,295.49,24.83,85.35,120.59,3.64,0.92,26.72,5.98,Risiko Rendah
+FARM_250,Tadah Hujan,Musim Kemarau,Semi Teknis,Sedang,Varietas B,130.39,24.84,64.32,120.33,1.55,0.61,23.54,6.55,Risiko Rendah
+FARM_121,Tadah Hujan,Musim Kemarau,Teknis,Tinggi,Varietas A,100.63,31.52,63.48,163.29,1.63,0.7,20.13,6.96,Risiko Rendah
+FARM_278,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas B,279.43,25.63,95.92,163.58,1.76,1.79,21.79,8.05,Risiko Rendah
+FARM_245,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas A,317.1,27.5,81.97,102.03,3.15,0.92,28.29,7.22,Risiko Rendah
+FARM_311,Dataran Menengah,Musim Hujan,Teknis,Rendah,Varietas B,222.08,26.63,89.34,149.13,1.56,1.37,25.67,8.41,Risiko Rendah
+FARM_128,Tadah Hujan,Musim Hujan,Tadah Hujan,Sedang,Varietas A,274.56,25.66,90.37,72.52,2.73,1.0,20.88,5.63,Risiko Sedang
+FARM_075,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas A,219.48,25.91,87.03,138.33,1.26,2.65,29.42,8.32,Risiko Rendah
+FARM_292,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas B,150.69,27.22,74.07,121.31,2.56,0.92,25.92,7.21,Risiko Rendah
+FARM_030,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas B,104.14,30.12,72.87,112.74,1.89,1.11,33.4,4.6,Risiko Sedang
+FARM_084,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas A,329.49,25.04,81.2,100.13,1.36,1.63,16.63,4.48,Risiko Sedang
+FARM_299,Dekat Sungai,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,127.74,30.16,67.44,165.91,2.91,0.82,25.15,7.35,Risiko Rendah
+FARM_108,Dekat Sungai,Musim Kemarau,Teknis,Rendah,Varietas B,189.43,27.3,67.97,38.07,2.06,1.42,23.76,2.83,Risiko Tinggi
+FARM_291,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas A,179.6,28.37,98.0,115.52,3.31,1.23,24.4,9.21,Risiko Rendah
+FARM_220,Tadah Hujan,Musim Hujan,Semi Teknis,Sedang,Varietas A,255.27,25.6,90.52,122.22,2.26,2.89,14.51,6.08,Risiko Rendah
+FARM_134,Dataran Rendah,Musim Hujan,Tadah Hujan,Tinggi,Varietas C,204.65,28.9,80.45,100.01,2.03,0.68,26.03,7.41,Risiko Rendah
+FARM_185,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas A,114.83,30.97,64.83,97.96,1.48,1.5,24.77,4.54,Risiko Sedang
+FARM_310,Dataran Rendah,Musim Hujan,Tadah Hujan,Sedang,Varietas A,321.72,27.08,84.23,113.42,2.11,0.47,27.4,2.05,Risiko Tinggi
+FARM_045,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas A,223.82,22.86,77.52,138.66,2.62,0.82,19.64,7.97,Risiko Rendah
+FARM_332,Dekat Sungai,Musim Hujan,Semi Teknis,Rendah,Varietas B,255.62,27.77,78.9,127.62,1.84,1.62,27.52,6.58,Risiko Rendah
+FARM_066,Dataran Menengah,Musim Hujan,Tadah Hujan,,Varietas A,248.3,23.71,94.38,156.35,2.38,2.29,23.98,7.55,Risiko Rendah
+FARM_269,Dataran Menengah,Musim Hujan,Teknis,Tinggi,Varietas B,246.49,27.46,74.04,57.6,0.2,1.57,19.47,6.38,Risiko Rendah
+FARM_086,Dataran Rendah,Musim Kemarau,Semi Teknis,Tinggi,Varietas A,149.66,28.35,64.25,84.14,3.3,2.51,21.64,8.21,Risiko Rendah
+FARM_187,Tadah Hujan,Musim Hujan,Tadah Hujan,Sedang,Varietas A,182.19,24.89,86.02,85.42,2.41,0.59,28.1,6.34,Risiko Rendah
+FARM_071,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas C,215.7,28.48,89.29,91.56,2.86,2.58,25.68,8.27,Risiko Rendah
+FARM_160,Dekat Sungai,Musim Hujan,Teknis,Rendah,Varietas C,284.3,27.56,95.27,98.09,3.54,1.51,19.49,6.82,Risiko Rendah
+FARM_013,Tadah Hujan,Musim Hujan,Semi Teknis,Sedang,Varietas C,127.33,25.52,84.4,120.08,1.48,1.61,21.15,7.26,Risiko Rendah
+FARM_036,Tadah Hujan,Musim Kemarau,Tadah Hujan,Sedang,Varietas B,155.7,26.6,64.58,163.69,1.15,0.31,29.14,8.01,Risiko Rendah
+FARM_029,Dataran Menengah,Musim Kemarau,Tadah Hujan,Sedang,Varietas C,100.71,27.21,62.27,65.27,0.8,1.28,25.44,5.55,Risiko Sedang
+FARM_171,Dekat Sungai,Musim Kemarau,Semi Teknis,Tinggi,Varietas C,168.04,29.17,91.27,35.0,2.49,0.94,27.6,5.63,Risiko Sedang
+FARM_143,Dataran Menengah,Musim Hujan,Semi Teknis,Sedang,Varietas B,332.71,25.81,74.62,151.28,2.64,1.47,20.83,6.01,Risiko Rendah
+FARM_151,Tadah Hujan,Musim Kemarau,Teknis,Tinggi,Varietas B,209.16,28.88,75.39,121.01,2.03,1.46,26.93,9.29,Risiko Rendah
+FARM_229,Tadah Hujan,Musim Hujan,Tadah Hujan,Sedang,Varietas A,230.77,27.11,84.62,77.61,3.76,3.53,22.38,6.34,Risiko Rendah
+FARM_222,Dataran Menengah,Musim Kemarau,Semi Teknis,Tinggi,Varietas B,77.61,26.85,73.12,,2.57,2.41,25.18,6.76,Risiko Rendah
+FARM_132,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas A,119.49,28.51,71.82,102.4,2.39,1.07,30.04,5.94,Risiko Rendah
+FARM_289,Dataran Rendah,Musim Kemarau,Teknis,Rendah,Varietas C,147.66,29.47,70.38,124.0,3.05,2.44,20.95,6.92,Risiko Rendah
+FARM_052,Dekat Sungai,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,141.86,27.09,67.29,141.64,2.91,2.23,20.57,8.29,Risiko Rendah
+FARM_295,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas A,178.17,30.98,83.05,162.67,3.28,1.45,22.01,6.49,Risiko Rendah
+FARM_096,Dataran Menengah,Musim Hujan,Semi Teknis,Sedang,Varietas A,217.44,28.38,87.72,56.56,1.34,3.32,24.84,6.73,Risiko Rendah
+FARM_276,Dataran Menengah,Musim Hujan,Teknis,Tinggi,Varietas C,239.49,24.56,83.77,106.92,3.79,2.45,24.91,8.34,Risiko Rendah
+FARM_179,Tadah Hujan,Musim Hujan,Teknis,Rendah,Varietas B,81.98,28.63,81.19,163.93,2.53,1.75,21.42,7.18,Risiko Rendah
+FARM_205,Dekat Sungai,Musim Hujan,Semi Teknis,Sedang,Varietas A,182.3,24.61,82.07,150.63,2.01,0.67,20.7,8.28,Risiko Rendah
+FARM_124,Dataran Rendah,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,115.3,29.85,73.68,113.73,2.01,3.08,32.37,5.79,Risiko Sedang
+FARM_042,Dataran Menengah,Musim Kemarau,Teknis,Tinggi,Varietas A,162.94,26.51,67.3,126.03,2.98,0.79,12.0,7.23,Risiko Rendah
+FARM_090,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas B,212.71,25.12,79.9,91.52,1.52,1.55,24.66,7.1,Risiko Rendah
+FARM_281,Tadah Hujan,Musim Hujan,Teknis,Tinggi,Varietas A,184.06,30.05,88.44,120.72,2.37,4.0,22.91,7.65,Risiko Rendah
+FARM_207,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas A,233.35,29.63,76.99,123.08,3.18,1.86,28.78,7.05,Risiko Rendah
+FARM_137,Dataran Menengah,Musim Kemarau,Teknis,Rendah,Varietas A,135.67,24.79,57.0,136.22,2.78,1.2,23.17,7.76,Risiko Rendah
+FARM_027,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas C,309.82,29.59,94.04,86.89,1.64,3.33,21.66,5.63,Risiko Sedang
+FARM_353,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas B,251.64,27.08,82.6,103.48,0.92,1.35,23.72,7.24,Risiko Rendah
+FARM_142,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas A,85.83,28.15,80.28,117.75,2.26,2.87,20.06,6.16,Risiko Rendah
+FARM_247,Dataran Menengah,Musim Hujan,Semi Teknis,Rendah,Varietas C,208.83,22.84,81.57,147.31,3.02,1.21,25.39,6.99,Risiko Rendah
+FARM_300,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas A,121.92,26.36,63.03,136.7,2.66,3.89,19.37,8.69,Risiko Rendah
+FARM_005,Dataran Rendah,Musim Kemarau,Semi Teknis,Tinggi,Varietas C,195.78,30.08,63.5,96.81,0.5,0.46,25.92,7.82,Risiko Rendah
+FARM_001,Dataran Menengah,Musim Hujan,Tadah Hujan,Tinggi,Varietas C,150.91,26.77,76.17,108.24,1.38,1.24,25.28,7.88,Risiko Rendah
+FARM_323,Dekat Sungai,Musim Hujan,Teknis,Rendah,Varietas A,280.76,25.78,84.27,131.24,1.26,1.07,28.22,6.55,Risiko Rendah
+FARM_308,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas A,145.33,26.42,80.2,109.8,2.76,1.3,21.68,6.39,Risiko Rendah
+FARM_328,Dekat Sungai,Musim Hujan,Teknis,Tinggi,Varietas B,253.01,25.14,92.44,94.57,2.34,1.33,23.86,8.08,Risiko Rendah
+FARM_101,Dataran Rendah,Musim Hujan,Tadah Hujan,Tinggi,Varietas B,184.16,25.58,74.08,96.3,1.2,1.59,29.7,5.47,Risiko Sedang
+FARM_227,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas A,273.08,26.48,73.29,167.86,1.12,2.34,24.79,8.79,Risiko Rendah
+FARM_344,Dataran Menengah,Musim Hujan,Semi Teknis,Rendah,Varietas B,205.67,24.84,91.38,101.46,1.96,3.83,20.16,5.96,Risiko Rendah
+FARM_214,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas A,113.32,26.3,73.04,157.46,1.78,1.18,17.03,7.07,Risiko Rendah
+FARM_172,Dataran Rendah,Musim Kemarau,Tadah Hujan,Sedang,Varietas B,58.08,27.8,63.14,109.77,3.61,0.74,30.8,1.42,Risiko Tinggi
+FARM_099,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas A,231.78,26.57,85.31,89.53,2.35,1.35,28.14,7.81,Risiko Rendah
+FARM_216,Dataran Rendah,Musim Kemarau,Teknis,Rendah,Varietas C,119.98,,59.25,117.02,2.54,0.46,19.63,6.44,Risiko Rendah
+FARM_062,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,96.61,30.34,81.11,177.13,1.9,1.99,25.3,7.15,Risiko Rendah
+FARM_048,Dataran Menengah,Musim Hujan,Tadah Hujan,Sedang,Varietas B,156.01,23.5,83.76,113.53,1.58,1.35,24.44,6.34,Risiko Rendah
+FARM_033,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas C,308.24,24.96,85.78,99.61,1.87,0.74,23.75,1.64,Risiko Tinggi
+FARM_201,Dekat Sungai,Musim Kemarau,Tadah Hujan,Sedang,Varietas B,130.69,28.54,81.11,91.3,2.08,0.89,22.7,6.68,Risiko Rendah
+FARM_321,Dataran Menengah,Musim Kemarau,Semi Teknis,Rendah,Varietas B,136.0,28.89,78.19,131.34,1.9,1.21,27.03,6.58,Risiko Rendah
+FARM_028,Dataran Menengah,Musim Hujan,Semi Teknis,Tinggi,Varietas A,291.46,26.58,88.14,112.33,1.28,0.52,22.08,7.38,Risiko Rendah
+FARM_283,Dataran Menengah,Musim Hujan,Tadah Hujan,Sedang,Varietas A,212.3,23.64,90.72,103.92,1.77,0.8,26.0,6.34,Risiko Rendah
+FARM_231,Dekat Sungai,Musim Hujan,Semi Teknis,Rendah,Varietas A,208.37,27.02,84.16,71.68,2.34,1.69,18.27,5.34,Risiko Sedang
+FARM_261,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas C,235.48,25.36,84.35,119.77,3.39,0.83,16.2,8.18,Risiko Rendah
+FARM_163,Dekat Sungai,Musim Kemarau,Teknis,Tinggi,Varietas A,147.74,27.11,73.88,104.01,3.11,1.13,22.65,8.73,Risiko Rendah
+FARM_322,Dekat Sungai,Musim Hujan,Tadah Hujan,Rendah,Varietas C,,27.11,97.27,111.37,2.22,1.1,18.42,6.79,Risiko Rendah
+FARM_139,Dataran Menengah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,56.96,25.65,64.2,166.76,3.28,3.48,17.89,7.47,Risiko Rendah
+FARM_063,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas A,190.63,26.6,89.69,110.55,2.55,1.76,16.78,8.03,Risiko Rendah
+FARM_136,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas A,289.52,26.34,84.22,94.53,2.91,2.01,18.06,5.9,Risiko Rendah
+FARM_129,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,61.08,30.14,62.36,136.02,3.75,1.68,24.81,6.78,Risiko Rendah
+FARM_009,Dekat Sungai,Musim Hujan,Teknis,Tinggi,Varietas C,350.88,26.17,80.0,105.15,2.58,1.5,27.18,6.68,Risiko Rendah
+FARM_065,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas A,206.59,25.07,79.58,72.53,2.54,1.96,27.38,6.47,Risiko Rendah
+FARM_015,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas A,241.99,26.86,92.21,99.39,1.9,2.69,23.36,7.44,Risiko Rendah
+FARM_157,Dekat Sungai,Musim Hujan,Semi Teknis,Tinggi,Varietas A,186.45,25.04,87.19,141.75,2.47,0.67,25.53,8.29,Risiko Rendah
+FARM_041,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas C,170.09,27.65,83.81,125.32,1.8,0.9,17.74,8.98,Risiko Rendah
+FARM_350,Dekat Sungai,Musim Kemarau,Teknis,Tinggi,Varietas B,101.53,27.6,86.59,61.54,3.42,2.23,26.76,6.75,Risiko Rendah
+FARM_293,Tadah Hujan,Musim Kemarau,Tadah Hujan,Tinggi,Varietas B,117.65,28.07,71.84,134.4,3.08,0.6,29.99,7.16,Risiko Rendah
+FARM_217,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas B,273.53,25.79,79.29,109.06,2.26,1.17,24.54,6.85,Risiko Rendah
+FARM_280,Dekat Sungai,Musim Hujan,Semi Teknis,Sedang,Varietas A,288.11,25.36,92.69,99.44,2.87,1.2,28.69,6.36,Risiko Rendah
+FARM_312,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas A,73.83,27.14,66.58,60.37,1.89,1.91,24.43,1.73,Risiko Tinggi
+FARM_237,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas A,91.71,29.39,62.19,75.88,3.65,2.05,21.87,5.56,Risiko Sedang
+FARM_208,Dekat Sungai,Musim Hujan,Semi Teknis,Sedang,Varietas C,151.63,29.54,86.73,68.66,1.43,0.78,21.61,6.21,Risiko Rendah
+FARM_213,Dekat Sungai,Musim Hujan,Tadah Hujan,Sedang,Varietas A,267.33,25.54,89.72,182.53,2.09,1.59,24.89,7.88,Risiko Rendah
+FARM_329,Dataran Menengah,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,156.07,28.21,63.4,125.12,1.13,1.13,17.62,7.02,Risiko Rendah
+FARM_252,Dataran Menengah,Musim Kemarau,Tadah Hujan,Sedang,Varietas B,106.28,28.69,75.42,100.73,2.89,0.63,26.16,6.53,Risiko Rendah
+FARM_351,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas A,174.4,28.24,73.98,151.91,2.73,1.38,25.06,9.13,Risiko Rendah
+FARM_330,Dataran Rendah,Musim Hujan,Teknis,Tinggi,Varietas A,273.96,27.33,83.03,78.79,1.87,1.96,25.68,6.37,Risiko Rendah
+FARM_270,Dataran Rendah,Musim Hujan,Tadah Hujan,Rendah,Varietas B,212.38,24.2,81.74,147.45,2.75,0.93,25.4,6.94,Risiko Rendah
+FARM_202,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas C,191.1,26.02,79.75,,2.6,0.55,26.37,8.7,Risiko Rendah
+FARM_162,Dekat Sungai,Musim Hujan,Semi Teknis,Tinggi,Varietas A,200.4,,81.35,69.09,1.28,0.96,24.62,7.32,Risiko Rendah
+FARM_044,Tadah Hujan,Musim Kemarau,Semi Teknis,Tinggi,Varietas A,128.72,31.04,62.38,107.19,2.98,0.42,24.97,6.45,Risiko Rendah
+FARM_218,Dekat Sungai,Musim Kemarau,Tadah Hujan,Rendah,Varietas A,161.1,28.39,68.45,88.35,1.72,1.99,27.98,5.78,Risiko Sedang
+FARM_191,Dataran Rendah,Musim Hujan,Semi Teknis,Sedang,Varietas B,195.07,26.56,81.02,99.03,1.73,1.08,17.67,6.67,Risiko Rendah
+FARM_260,Dataran Rendah,Musim Kemarau,Semi Teknis,Rendah,Varietas B,86.27,29.08,61.3,105.41,2.6,1.02,25.05,5.58,Risiko Sedang
+FARM_106,Dataran Rendah,Musim Hujan,Tadah Hujan,Tinggi,Varietas B,261.92,25.37,83.28,98.01,0.87,1.8,27.04,6.0,Risiko Rendah
+FARM_054,Tadah Hujan,Musim Kemarau,Teknis,Rendah,Varietas A,64.91,32.0,72.33,67.29,1.87,1.43,22.97,2.94,Risiko Tinggi
+FARM_002,Tadah Hujan,Musim Kemarau,Teknis,Rendah,Varietas A,71.99,30.52,71.76,113.27,2.58,0.74,21.4,5.62,Risiko Sedang
+FARM_050,Dataran Rendah,Musim Hujan,Tadah Hujan,Sedang,Varietas A,180.44,28.22,83.2,149.91,1.24,2.45,25.98,8.27,Risiko Rendah
+FARM_081,Tadah Hujan,Musim Hujan,Semi Teknis,Tinggi,Varietas A,317.81,25.48,76.0,108.55,1.78,1.02,22.61,2.59,Risiko Tinggi
+FARM_206,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,154.56,27.96,67.47,135.51,1.38,1.24,25.11,8.43,Risiko Rendah
+FARM_035,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas A,174.85,28.13,79.77,97.2,2.69,1.78,25.05,8.31,Risiko Rendah
+FARM_264,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas B,145.27,23.9,76.47,132.09,2.59,1.34,29.48,7.45,Risiko Rendah
+FARM_092,Dekat Sungai,Musim Kemarau,Tadah Hujan,Tinggi,Varietas B,96.79,31.41,78.31,129.97,2.82,0.99,25.97,6.29,Risiko Rendah
+FARM_053,Tadah Hujan,Musim Kemarau,Teknis,Rendah,Varietas A,30.0,30.04,71.06,104.74,3.66,1.68,19.5,4.29,Risiko Sedang
+FARM_265,Tadah Hujan,Musim Kemarau,Semi Teknis,Sedang,Varietas A,95.87,28.8,62.95,119.4,2.66,1.37,19.66,6.9,Risiko Rendah
+FARM_242,Tadah Hujan,Musim Hujan,Semi Teknis,Rendah,Varietas C,311.73,27.25,83.38,102.37,2.6,0.42,28.32,1.4,Risiko Tinggi
+FARM_014,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas B,140.52,28.54,76.67,131.66,2.87,0.77,17.83,7.52,Risiko Rendah
+FARM_316,Dekat Sungai,Musim Kemarau,Semi Teknis,Tinggi,Varietas C,59.8,27.42,75.09,112.36,2.1,2.01,29.18,6.88,Risiko Rendah
+FARM_089,Tadah Hujan,Musim Hujan,Semi Teknis,Rendah,Varietas C,197.58,27.05,86.85,106.38,1.41,1.18,17.83,6.63,Risiko Rendah
+FARM_274,Tadah Hujan,Musim Hujan,Semi Teknis,Sedang,Varietas B,271.43,,79.38,76.59,1.66,1.75,16.88,4.69,Risiko Sedang
+FARM_167,Dataran Rendah,Musim Hujan,Semi Teknis,Rendah,Varietas A,240.26,24.54,90.16,109.67,1.38,0.87,19.69,5.77,Risiko Sedang
+FARM_354,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas B,311.52,26.27,79.21,112.5,1.94,1.33,19.25,7.68,Risiko Rendah
+FARM_135,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas A,231.84,27.55,80.23,125.04,1.5,2.8,22.28,8.62,Risiko Rendah
+FARM_307,Dataran Menengah,Musim Hujan,Tadah Hujan,Tinggi,Varietas A,260.81,24.97,87.15,83.72,3.47,0.72,28.65,6.19,Risiko Rendah
+FARM_346,Dekat Sungai,Musim Kemarau,Semi Teknis,Tinggi,Varietas C,157.88,27.49,82.1,128.75,1.91,1.05,17.67,8.12,Risiko Rendah
+FARM_320,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,143.39,28.64,62.86,144.17,3.07,3.04,22.16,8.35,Risiko Rendah
+FARM_244,Dataran Menengah,Musim Hujan,Teknis,Rendah,Varietas C,164.49,26.7,84.64,148.61,3.93,2.24,25.95,8.22,Risiko Rendah
+FARM_055,Dataran Menengah,Musim Kemarau,Tadah Hujan,Sedang,Varietas B,94.52,29.31,66.72,89.11,2.77,1.85,21.85,5.25,Risiko Sedang
+FARM_051,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas A,157.45,27.14,82.37,113.26,2.91,1.2,12.58,6.28,Risiko Rendah
+FARM_175,Dekat Sungai,Musim Kemarau,Semi Teknis,Sedang,Varietas A,135.17,27.03,77.17,136.77,2.56,1.12,19.39,8.05,Risiko Rendah
+FARM_190,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,142.34,29.53,65.7,124.87,2.2,0.66,23.81,8.42,Risiko Rendah
+FARM_358,Dataran Menengah,Musim Kemarau,Semi Teknis,Sedang,Varietas A,148.71,27.81,67.76,116.16,2.61,0.8,23.29,7.56,Risiko Rendah
+FARM_188,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas B,148.63,25.33,70.63,149.25,3.08,0.65,21.38,8.82,Risiko Rendah
+FARM_170,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas B,148.25,28.36,61.19,117.39,2.63,0.35,21.62,7.65,Risiko Rendah
+FARM_059,Dataran Rendah,Musim Kemarau,Semi Teknis,Sedang,Varietas A,117.28,33.93,66.74,106.6,0.7,1.28,26.23,3.49,Risiko Tinggi
+FARM_049,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas A,118.75,28.91,56.69,162.71,3.26,2.64,21.49,8.42,Risiko Rendah
+FARM_236,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas A,214.97,29.11,94.7,78.96,3.36,0.69,25.3,7.15,Risiko Rendah
+FARM_253,Tadah Hujan,Musim Kemarau,Semi Teknis,Rendah,Varietas A,47.76,28.94,76.48,115.96,2.31,1.72,27.5,5.3,Risiko Sedang
+FARM_022,Dataran Rendah,Musim Kemarau,Teknis,Tinggi,Varietas B,142.69,29.21,67.15,104.93,3.26,0.88,31.25,7.43,Risiko Rendah
+FARM_314,Tadah Hujan,Musim Hujan,Teknis,Sedang,Varietas A,175.68,27.77,82.35,64.1,1.82,2.77,25.29,7.36,Risiko Rendah
+FARM_161,Dataran Menengah,Musim Kemarau,Teknis,Tinggi,Varietas A,119.07,26.65,61.83,,1.44,1.69,28.51,8.38,Risiko Rendah
+FARM_277,Dekat Sungai,Musim Hujan,Tadah Hujan,Tinggi,Varietas A,201.48,25.25,79.07,93.05,1.53,0.76,21.75,7.12,Risiko Rendah
+FARM_192,Tadah Hujan,Musim Kemarau,Teknis,Tinggi,Varietas A,62.18,27.63,73.19,64.02,1.33,1.04,20.24,6.13,Risiko Rendah
+FARM_294,Dataran Menengah,Musim Kemarau,Teknis,Sedang,Varietas A,131.48,23.41,68.6,79.46,2.57,0.64,22.02,6.41,Risiko Rendah
+FARM_258,Dekat Sungai,Musim Hujan,Teknis,Sedang,Varietas A,218.78,27.25,89.86,116.65,3.78,0.46,24.8,7.55,Risiko Rendah
+FARM_309,Dekat Sungai,Musim Hujan,Teknis,Tinggi,Varietas B,392.12,28.7,79.89,123.68,1.29,2.69,19.37,4.51,Risiko Sedang
+FARM_150,Dataran Rendah,Musim Kemarau,Tadah Hujan,Sedang,Varietas B,99.15,24.87,77.62,111.75,1.94,0.79,21.48,5.6,Risiko Sedang
+FARM_131,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas B,240.41,25.7,77.14,83.36,1.9,1.39,24.74,7.02,Risiko Rendah
+FARM_152,Dataran Rendah,Musim Hujan,Teknis,Rendah,Varietas C,240.71,27.47,85.13,159.19,1.7,0.57,23.21,8.18,Risiko Rendah
+FARM_100,Dataran Rendah,Musim Hujan,Teknis,Sedang,Varietas B,318.23,26.79,78.26,88.78,3.01,3.32,20.66,6.43,Risiko Rendah
+FARM_088,Dekat Sungai,Musim Kemarau,Tadah Hujan,Sedang,Varietas A,118.43,29.55,79.34,126.44,2.43,1.3,24.1,6.33,Risiko Rendah
+FARM_331,Dataran Menengah,Musim Hujan,Tadah Hujan,Rendah,Varietas B,160.34,25.72,76.63,131.03,2.31,1.41,21.69,6.46,Risiko Rendah
+FARM_215,Dekat Sungai,Musim Kemarau,Teknis,Tinggi,Varietas A,104.37,31.02,74.68,131.86,1.93,1.11,21.82,7.41,Risiko Rendah
+FARM_122,Tadah Hujan,Musim Kemarau,Semi Teknis,Rendah,Varietas A,148.88,27.36,75.0,106.95,3.15,3.35,23.73,6.23,Risiko Rendah
+FARM_360,Dataran Menengah,Musim Kemarau,Tadah Hujan,,Varietas A,,26.69,64.56,141.64,2.85,1.1,22.33,1.6,Risiko Tinggi
+FARM_021,Dekat Sungai,Musim Hujan,Semi Teknis,Rendah,Varietas A,305.93,26.3,80.77,65.0,2.29,2.47,25.23,1.29,Risiko Tinggi
+FARM_189,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas A,286.9,27.31,74.86,107.75,2.58,1.52,24.11,7.31,Risiko Rendah
+FARM_072,Dataran Rendah,Musim Kemarau,Semi Teknis,Tinggi,Varietas B,166.1,24.89,67.17,97.98,2.92,1.96,25.11,7.36,Risiko Rendah
+FARM_107,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas C,207.45,26.92,77.22,127.82,3.05,1.33,22.83,9.3,Risiko Rendah
+FARM_271,Tadah Hujan,Musim Kemarau,Tadah Hujan,Tinggi,Varietas A,131.49,28.39,72.0,105.58,2.3,1.71,20.62,6.89,Risiko Rendah
+FARM_349,Dataran Menengah,Musim Hujan,Teknis,Sedang,Varietas A,198.31,28.11,89.39,135.71,1.79,3.13,25.52,7.99,Risiko Rendah
+FARM_103,Dataran Rendah,Musim Kemarau,Teknis,Sedang,Varietas B,67.33,28.64,73.32,109.75,2.95,1.67,20.45,6.38,Risiko Rendah
