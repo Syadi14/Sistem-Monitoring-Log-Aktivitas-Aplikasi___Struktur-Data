@@ -55,10 +55,14 @@
   "C_Cpp_Runner.useLeakSanitizer": false,
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
+<<<<<<< HEAD
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
   "python-envs.defaultEnvManager": "ms-python.python:system",
   "files.watcherExclude": {
     "**/target/**": true
   }
+=======
+  "C_Cpp_Runner.msvcSecureNoWarnings": false
+>>>>>>> bb29dd6b24c431161dac6054d4e7e887b0dc688d
 }

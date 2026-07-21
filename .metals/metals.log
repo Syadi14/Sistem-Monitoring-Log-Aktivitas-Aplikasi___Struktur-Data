@@ -5149,3 +5149,17 @@ java.util.concurrent.TimeoutException
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:614)
 	at java.lang.Thread.run(Thread.java:1474)
 
+2026.07.21 20:10:28 INFO  Started: Metals version 1.6.7 in folders 'C:\Users\hafid\Documents\Coding' for client Visual Studio Code 1.129.0.
+2026.07.21 20:10:28 INFO  Memory monitor started
+2026.07.21 20:10:32 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.21 20:10:33 INFO  Attempting to connect to the build server...
+2026.07.21 20:10:33 INFO  Running BSP server List(C:\Users\hafid\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\hafid\Documents\Kuliah\Coding\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\hafid\Documents\Kuliah\Coding\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\hafid\Documents\Kuliah\Coding\.scala-build\ide-envs.json, C:\Users\hafid\Documents\Kuliah\Coding)
+2026.07.21 20:10:42 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\hafid\Documents\Coding\.metals\bsp.trace.json or C:\Users\hafid\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.07.21 20:10:42 INFO  BSP server: Starting compilation server
+2026.07.21 20:10:45 INFO  time: Connected to build server in 12s
+2026.07.21 20:10:45 INFO  Connected to Build server: scala-cli v1.13.0
+2026.07.21 20:10:45 INFO  time: Imported build in 0.24s
+2026.07.21 20:10:46 INFO  compiling coding_d5c0a6989e (1 scala source)
+2026.07.21 20:10:52 INFO  time: compiled Coding_d5c0a6989e in 6.02s
+2026.07.21 20:10:54 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.07.21 20:10:54 INFO  time: indexed workspace in 9.1s
