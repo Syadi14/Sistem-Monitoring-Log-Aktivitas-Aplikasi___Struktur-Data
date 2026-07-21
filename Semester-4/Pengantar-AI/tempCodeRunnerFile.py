@@ -76,7 +76,7 @@ class SimpleNeuralNetwork:
 
 
 # =========================
-# DATASET DUMMY
+# DATASET DUMMY (Karena penasaran, nyobain masukin data dummy)
 # =========================
 
 X = np.array([

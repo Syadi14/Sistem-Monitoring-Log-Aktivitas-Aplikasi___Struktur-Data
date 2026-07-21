@@ -59,6 +59,6 @@
   "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
   "python-envs.defaultEnvManager": "ms-python.python:system",
   "files.watcherExclude": {
-    "**/target": true
+    "**/target/**": true
   }
 }
